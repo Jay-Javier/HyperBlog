@@ -6,6 +6,8 @@ Mañana nos enfocaremos en su vida laboral.
 
 Experimento 1 (Este es el segundo commit del ejercicio hecho en una nueva rama llamada experimento)
 
+Experimento 2 (Este es el 3er commit del ejercicio realizado en la rama experimento(para la rama experimento este seria su segundo commit no el tercero))
+
 Master 1 (Primer commit hecho en la rama principal main porque es la que se usa ahora.)
 
 Master 2 (Este es el cuarto commit del ejercicio realizado en la rama principal, para la rama principal este seria su segundo commit.)
